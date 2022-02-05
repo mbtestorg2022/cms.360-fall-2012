@@ -51,13 +51,66 @@ Learning activities include:
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Texts and discussion | 20% |
-| Weekly reflections | 30% |
-| Discussion facilitation and synthesis | 10% |
-| Midterm Project proposal | 10% |
-| Final Project and Presentation | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Texts and discussion
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly reflections
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Discussion facilitation and synthesis
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Project proposal
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project and Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 A Note about Blogging and Anonymity
 -----------------------------------
@@ -72,22 +125,221 @@ Plagiarism - use of another's intellectual work without acknowledgement - is a s
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | The 'Crisis in Journalism' and Digital Inequalities | First blog post due |
-| 3 | Dialogic Approaches: From the Public Sphere to Networked Counter publics | Second blog post due |
-| 4 | Contentious Approaches: Power and Conflict, from Hegemony to Media Justice; Project Proposal Workshop |  {{< br >}}{{< br >}} Project proposals due {{< br >}}{{< br >}} Project Proposal workshop. {{< br >}}{{< br >}}  |
-| 5 | Critical Political Economic Approaches: Is it the System or is it Propaganda? Yes. | Third blog post due |
-| 6 | Free Cultural Labor | Fourth Blog Post due |
-| 7 | Civic Maps |  {{< br >}}{{< br >}} Fifth blog post due {{< br >}}{{< br >}} Hands On: Local Ground {{< br >}}{{< br >}}  |
-| 8 | Platforms and Affordances: From Pamphleteers to Peer-to-Peer | Case Study due |
-| 9 | Net Culture, Civic Remix, and Kony 2012 |  {{< br >}}{{< br >}} Sixth blog post due {{< br >}}{{< br >}} Hands On: #hurricanehacking! {{< br >}}{{< br >}}  |
-| 10 | From the Barricades to the New Normal, or, From Indymedia to the Age of Citizen Journalism | Seventh blog post due |
-| 11 | Freedom of Information: from the Pentagon papers to Wikileaks and Beyond | Eighth blog post due |
-| 12 | Mobile Civic Media | Ninth blog post due |
-| 13 | Civil Disobedience and Hacktivism, from the Black Bloc to DDOS and Beyond | Tenth blog post due |
-| 14 | Video Activism, Free Software, and Human Rights in the Asia-Pacific Region | Eleventh blog post due |
-| 15 | Final Project IGNITE Talks | Final projects due 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The 'Crisis in Journalism' and Digital Inequalities
+{{< tdclose >}}
+{{< tdopen >}}
+First blog post due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Dialogic Approaches: From the Public Sphere to Networked Counter publics
+{{< tdclose >}}
+{{< tdopen >}}
+Second blog post due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Contentious Approaches: Power and Conflict, from Hegemony to Media Justice; Project Proposal Workshop
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project proposals due
+
+Project Proposal workshop.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Critical Political Economic Approaches: Is it the System or is it Propaganda? Yes.
+{{< tdclose >}}
+{{< tdopen >}}
+Third blog post due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Free Cultural Labor
+{{< tdclose >}}
+{{< tdopen >}}
+Fourth Blog Post due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Civic Maps
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Fifth blog post due
+
+Hands On: Local Ground
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Platforms and Affordances: From Pamphleteers to Peer-to-Peer
+{{< tdclose >}}
+{{< tdopen >}}
+Case Study due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Net Culture, Civic Remix, and Kony 2012
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sixth blog post due
+
+Hands On: #hurricanehacking!
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+From the Barricades to the New Normal, or, From Indymedia to the Age of Citizen Journalism
+{{< tdclose >}}
+{{< tdopen >}}
+Seventh blog post due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Freedom of Information: from the Pentagon papers to Wikileaks and Beyond
+{{< tdclose >}}
+{{< tdopen >}}
+Eighth blog post due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Mobile Civic Media
+{{< tdclose >}}
+{{< tdopen >}}
+Ninth blog post due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Civil Disobedience and Hacktivism, from the Black Bloc to DDOS and Beyond
+{{< tdclose >}}
+{{< tdopen >}}
+Tenth blog post due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Video Activism, Free Software, and Human Rights in the Asia-Pacific Region
+{{< tdclose >}}
+{{< tdopen >}}
+Eleventh blog post due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project IGNITE Talks
+{{< tdclose >}}
+{{< tdopen >}}
+Final projects due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _"There is no guarantee that networked information technology will lead to the improvements in innovation, freedom, and justice that I suggest are possible. That is a choice we face as a society. The way we develop will, in significant measure, depend on choices we make in the next decade or so." —_ Yochai Benkler_, The Wealth of Networks: How Social Production Transforms Markets and Freedom_.
