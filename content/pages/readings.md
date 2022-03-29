@@ -48,7 +48,7 @@ The 'Crisis in Journalism' and Digital Inequalities
 
 Hargittai, E. "[The Digital Reproduction of Inequality](http://webuse.org/p/c11/)." In _Social Stratification: Class, Race, and Gender in Sociological Perspective_. Edited by David Grusky. Westview Press, 2008, pp. 936–44. ISBN: 9780813343730.
 
-Modarres, Ali and Bill Pitkin. "[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Technology and The Geography Of Inequality In Los Angeles](http://www.distributedworkplace.com/DW/Research/Assessing%20the%20Digital%20Divide%20and%20Los%20Angeles%20County.pdf)." Pat Brown Public Policy Institute, 2006.
+Modarres, Ali and Bill Pitkin. "[Technology and The Geography Of Inequality In Los Angeles](http://www.distributedworkplace.com/DW/Research/Assessing%20the%20Digital%20Divide%20and%20Los%20Angeles%20County.pdf)." Pat Brown Public Policy Institute, 2006.
 
 MIT Communications Forum: "[What is Civic Media?](https://commforum.mit.edu/what-is-civic-media-b9c8d46652c3
             )" September 20, 2007.
@@ -157,12 +157,12 @@ Read abstracts from the _[Media and Propaganda Conference](http://web4.uwindsor.
 
 **Additional Texts**
 
-Uricchio, William. "[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Displacing Culture: Trans-National Culture, Regional Elites, and the Challenge to National Cinema." (PDF)](http://web.mit.edu/uricchio/Public/pdfs/pdfs/Displacing%20Culture.pdf) In _Trading Culture: GATT, European Cultural Policies and the Transatlantic Market_. Edited by A. van Hemel, H. Mommas, C. Smithuijsen. Boekmanstichting, 1996, pp. 67–82.
+Uricchio, William. "[Displacing Culture: Trans-National Culture, Regional Elites, and the Challenge to National Cinema." (PDF)](http://web.mit.edu/uricchio/Public/pdfs/pdfs/Displacing%20Culture.pdf) In _Trading Culture: GATT, European Cultural Policies and the Transatlantic Market_. Edited by A. van Hemel, H. Mommas, C. Smithuijsen. Boekmanstichting, 1996, pp. 67–82.
 
-Selections from Herman, Edward S. and Noam Chomsky. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Manufacturing Consent_ (PDF - 4MB)](https://focalizalaatencion.files.wordpress.com/2012/08/herman-chomsky-2002-manufacturingconsent.pdf
+Selections from Herman, Edward S. and Noam Chomsky. [_Manufacturing Consent_ (PDF - 4MB)](https://focalizalaatencion.files.wordpress.com/2012/08/herman-chomsky-2002-manufacturingconsent.pdf
             ). Pantheon Books, 1988. (This is a link to a webpage containing relevant text.)
 
-Cull, Nicholas. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Perspectives on Public Diplomacy." (PDF - 6.6MB)](http://uscpublicdiplomacy.org/publications/perspectives/CPDPerspectivesLessons.pdf). uscpublicdiplomacy.org, 2009.
+Cull, Nicholas. "[Perspectives on Public Diplomacy." (PDF - 6.6MB)](http://uscpublicdiplomacy.org/publications/perspectives/CPDPerspectivesLessons.pdf). uscpublicdiplomacy.org, 2009.
 
 **Explore**
 
@@ -186,7 +186,7 @@ Free Cultural Labor
 
 Lowenthal, Andrew. "[Free Beer vs. Free Media](http://www.undergrowth.org/free_media_v_free_beer_by_andrew_lowenthal)."
 
-Terranova, Tiziana. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Free Labor: Producing Culture for the Digital Economy." (PDF)](http://web.mit.edu/schock/www/docs/18.2terranova.pdf) _Social Text-63_ 18, no. 2 (2000): 33–58.
+Terranova, Tiziana. "[Free Labor: Producing Culture for the Digital Economy." (PDF)](http://web.mit.edu/schock/www/docs/18.2terranova.pdf) _Social Text-63_ 18, no. 2 (2000): 33–58.
 
 Hesmondhalgh, D. "User-generated Content, Free Labour and the Cultural Industries." Ephemera, 2010.
 
@@ -367,7 +367,7 @@ Freedom of Information: from the Pentagon papers to Wikileaks and Beyond
 
 **Core Texts**
 
-Assange, Julian. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Conspiracy as Governance." (PDF)](http://estaticos.elmundo.es/documentos/2010/12/01/conspiracies.pdf) 2006.
+Assange, Julian. "[Conspiracy as Governance." (PDF)](http://estaticos.elmundo.es/documentos/2010/12/01/conspiracies.pdf) 2006.
 
 EFF. [_Transparency Project_](https://www.eff.org/issues/transparency).
 
@@ -381,9 +381,9 @@ EFF. "[FOIA How-To](https://www.eff.org/issues/transparency/foia-how-to)." _Tran
 
 Case study: Drafting the Egyptian FOI Act
 
-Draft FoI Act by the Egyptian Initiative for Personal Rights (EIPR), Association for Freedom of Thought and Expression (AFTE) & Support for Information Technology, February, 2012. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[English (PDF)](http://eipr.org/sites/default/files/pressreleases/pdf/ngos_draft_law_freedom_of_information_march2012_english.pdf.pdf) - ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Arabic (PDF)](http://eipr.org/sites/default/files/pressreleases/pdf/ngos_draft_law_freedom_of_information_march2012.pdf).
+Draft FoI Act by the Egyptian Initiative for Personal Rights (EIPR), Association for Freedom of Thought and Expression (AFTE) & Support for Information Technology, February, 2012. [English (PDF)](http://eipr.org/sites/default/files/pressreleases/pdf/ngos_draft_law_freedom_of_information_march2012_english.pdf.pdf) - [Arabic (PDF)](http://eipr.org/sites/default/files/pressreleases/pdf/ngos_draft_law_freedom_of_information_march2012.pdf).
 
-Draft FoI Act by the Untied Group: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[English (PDF)](http://www.ug-law.com/downloads/FOI.pdf)\- ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Arabic (PDF - 5.1MB)](http://www.ug-law.com/downloads/FOI-ar.pdf).
+Draft FoI Act by the Untied Group: [English (PDF)](http://www.ug-law.com/downloads/FOI.pdf)\- [Arabic (PDF - 5.1MB)](http://www.ug-law.com/downloads/FOI-ar.pdf).
 
 nashtc. "[Across America, Sunshine is Under Attack](https://muckrocknews.wordpress.com/2012/03/17/across-america-sunshine-is-under-attack/)." _MuckRock Reporter's Notebook_, March 17, 2012.
 
@@ -418,7 +418,7 @@ Mobile Civic Media
 
 beckyh. "[Case Study: New Day New Standard, an Interactive Voice Hotline Powered by VOIP Drupal](http://civic.mit.edu/blog/beckyh/case-study-ndns-voip-drupal)." _Center for Civic Media_, May 31, 2012.
 
-Napoli, Philip, and Minna Aslama. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Mobile Voices: Projecting The Voices Of Immigrant Workers By Appropriating Mobile Phones for Popular Communication." (PDF)](http://web.mit.edu/schock/www/docs/vozmob-chapter-cra.pdf) In _Communications Research in Action: Scholar-Activist Collaborations for a Democratic Public Sphere_. Fordham University Press, VozMob project, 2010. ISBN: 978.0823233472.
+Napoli, Philip, and Minna Aslama. "[Mobile Voices: Projecting The Voices Of Immigrant Workers By Appropriating Mobile Phones for Popular Communication." (PDF)](http://web.mit.edu/schock/www/docs/vozmob-chapter-cra.pdf) In _Communications Research in Action: Scholar-Activist Collaborations for a Democratic Public Sphere_. Fordham University Press, VozMob project, 2010. ISBN: 978.0823233472.
 
 **Other Media**
 
